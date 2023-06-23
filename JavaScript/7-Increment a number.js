@@ -13,4 +13,4 @@ myVar = myVar + 1;
 let myVar = 87;
 myVar++;
 
-console.log("Result: " + myVar);
+console.log(myVar);

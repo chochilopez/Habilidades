@@ -8,4 +8,4 @@ const product = 8 * 0;
 
 const product = 8 * 10;
 
-console.log("Result: " + product);
+console.log(product);

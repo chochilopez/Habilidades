@@ -3,7 +3,9 @@ Explanation:
 
 Exercise:
 
+Tests:
+
 
 */
 
-console.log("Result: " + );
+console.log();

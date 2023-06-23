@@ -7,4 +7,4 @@ const sum = 10 + 0;
 
 const myVar = 5 + 10;
 
-console.log("Result: " + myVar);
+console.log(myVar);

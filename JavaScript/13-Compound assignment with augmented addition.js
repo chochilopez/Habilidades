@@ -24,4 +24,4 @@ a += 12;
 b += 9;
 c += 7;
 
-console.log("Result: " + a + " " + b + " " + c);
+console.log(a + " " + b + " " + c);

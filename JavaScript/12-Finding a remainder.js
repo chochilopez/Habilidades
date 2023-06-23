@@ -10,4 +10,4 @@ const remainder = 0;
 */
 const remainder = 17 % 3;
 
-console.log("Result: " + remainder);
+console.log(remainder);
