@@ -1,8 +1,0 @@
-/*
-Explanation:
-
-Exercise:
-
-Tests:
-
-*/
