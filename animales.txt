@@ -1,0 +1,7 @@
+hormiga
+oso
+gato
+perro
+zorro
+cabra
+caballo
